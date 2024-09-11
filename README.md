@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on CavaTech
 - 📫 How to reach me Don't
-- 😄 Pronouns: Sher/her
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm cool
 
 <!---
